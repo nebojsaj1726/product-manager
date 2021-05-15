@@ -1,0 +1,69 @@
+* {
+  font-size: 16px;
+}
+
+.main {
+  margin-top: 2em;
+}
+
+.add {
+  margin-top: 6em;
+}
+
+.detail {
+  margin-top: 8em;
+}
+
+.center {
+  justify-content: center;
+  padding: 20px;
+}
+
+.list {
+  margin: 2em 0 !important;
+}
+
+.item {
+  padding: 20px 0px !important;
+}
+
+.products {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-field {
+  width: 100px;
+}
+
+.text-field-desc {
+  width: 200px;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.right {
+  float: right !important;
+}
+
+.ui.search {
+  margin-top: 6em;
+}
+
+.ui.search .input {
+  width: 50%;
+  margin: 20px 0;
+}
+
+.loading {
+  margin-top: 12em;
+  text-align: center;
+}
+
+.searched {
+  margin-top: 8em;
+}
